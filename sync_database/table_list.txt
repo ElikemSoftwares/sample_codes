@@ -1,0 +1,23 @@
+nokia_4g_layer_wise_data
+anomaly_alarm_summary_4g
+anomaly_alarm_4g
+anomaly_alarm_cell_count_4g
+combined_city_wise_rca_data
+MO Comparison
+merged_summary_mo_v1
+anomaly_alarm_cell_count_5g
+anomaly_alarm_summary_5g
+TPG_Raw_alarms
+anomaly_alarm_5g
+tpg_kpi_failure_data
+tpg_failure_alarm
+TPG_Raw_alarms
+nokia_5g_layer_wise_data
+kpi_table_nsa
+kpi_table_sa_access_sr
+kpi_table_sgnb_t_abn_rel
+kpi_table_sa_qos_flow_drop
+tpg_kpi_failure_data
+PHDB_TPG_5G_UPLINK_TREND_OUTPUT
+TPG_5G_UPLINK_WEEKLY_AVG_OUTPUT
+TPG_5G_PRB_TRANSFORM_DATA
